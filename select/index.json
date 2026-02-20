@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【MV】忍びのすゝめ／まふまふ",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-20T04:23:28.792342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忍びのすゝめ",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_忍びのすゝめ_Mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忍びのすゝめ",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_忍びのすゝめ_まふまふ.txt"
+    }
+  ]
+}
